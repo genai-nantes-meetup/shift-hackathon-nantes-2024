@@ -13,8 +13,8 @@ Nothing more needed.
 
 ## Uploading local image to cloud storage
 This implementation has been made in an hackathon context where you cannot create API KEY for cloud storage, so you have to send an acces token. 
-Install gcloud to get an access token.
-Create your bucket on the storage.
+* Install gcloud to get an access token.
+* Create your bucket on the storage.
 
 ## Launch the client
 To start capturing screenshot:
