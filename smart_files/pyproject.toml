@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "smart-files"
+version = "0.1.0"
+description = ""
+authors = ["Victor DEGLIAME <victor.degliame@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+mistralai = "^0.3.0"
+langchain = "^0.2.1"
+langchain-community = "^0.2.1"
+pypdf = "^4.2.0"
+faiss-cpu = "^1.8.0"
+chromadb = "^0.5.0"
+google-generativeai = "^0.5.4"
+pillow = "^10.3.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.mypy]
+implicit_optional = false
