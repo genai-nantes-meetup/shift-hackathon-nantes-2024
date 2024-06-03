@@ -6,7 +6,7 @@ You have two options:
 
 Install pillow to grab screen shot
 ```
-pip install pip install pillow
+pip install pillow
 ```
 ## Sending base64 to api
 Nothing more needed.
