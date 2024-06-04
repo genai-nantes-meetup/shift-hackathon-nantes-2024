@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+fief-client[fastapi]
+pydantic-settings
+dependency-injector
+sqlalchemy
+bcrypt
+alembic

@@ -1,0 +1,5 @@
+spotdl
+langchain
+langchain_core
+langchain_mistralai
+ffmpeg-python
