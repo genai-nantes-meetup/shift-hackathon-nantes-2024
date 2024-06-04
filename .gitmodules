@@ -1,0 +1,3 @@
+[submodule "deeplore"]
+	path = deeplore
+	url = git@github.com:deeplore-ai/deeplore.git
