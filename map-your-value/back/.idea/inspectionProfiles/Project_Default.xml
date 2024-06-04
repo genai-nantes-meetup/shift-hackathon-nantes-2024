@@ -1,0 +1,82 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="color" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="4">
+            <item index="0" class="java.lang.String" itemvalue="scipy" />
+            <item index="1" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="2" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="3" class="java.lang.String" itemvalue="numpy" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E111" />
+          <option value="E305" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="str.get" />
+          <option value="str.__matmul__" />
+          <option value="TP_MIXTE.booking.booking_pb2.BookingData" />
+          <option value="TP_MIXTE.booking.booking_pb2.Movie" />
+          <option value="TP_MIXTE.booking.booking_pb2.DateData" />
+          <option value="TP_MIXTE.booking.showtime_pb2.ShowtimeMovie" />
+          <option value="TP_MIXTE.booking.showtime_pb2.ShowtimeDate" />
+          <option value="TP_MIXTE.booking.showtime_pb2.EmptyShowTime" />
+          <option value="user.booking_pb2.BookingData" />
+          <option value="user.booking_pb2.EmptyBooking" />
+          <option value="user.booking_pb2.Movie" />
+          <option value="user.booking_pb2.BookingUserId" />
+          <option value="user.booking_pb2.Date" />
+          <option value="booking.booking_pb2.BookingResponse" />
+          <option value="user.booking_pb2.DateData" />
+          <option value="booking.booking_pb2.BookingData" />
+          <option value="booking.booking_pb2.DateData" />
+          <option value="booking.booking_pb2.Movie" />
+          <option value="booking.booking_pb2.ShowtimeByMovieData" />
+          <option value="booking.booking_pb2.Date" />
+          <option value="booking.booking_pb2.ShowtimesDataByDate" />
+          <option value="booking.showtime_pb2.EmptyShowTime" />
+          <option value="showtime.showtime_pb2.Movie_list" />
+          <option value="showtime.showtime_pb2.ShowtimeData" />
+          <option value="showtime.showtime_pb2.ShowtimeDates" />
+          <option value="showtime.showtime_pb2.OperationStatus" />
+          <option value="booking.showtime_pb2.ShowtimeData" />
+          <option value="booking.showtime_pb2.Movie_list" />
+          <option value="booking.booking.BookingServicer.AddShowtime" />
+          <option value="booking.showtime_pb2.ShowtimeDate" />
+          <option value="user.booking_pb2_grpc.BookingStub.DeleteShowtime" />
+          <option value="user.booking_pb2_grpc.BookingStub.UpdateShowtime" />
+          <option value="user.booking_pb2_grpc.BookingStub.AddShowtime" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="VulnerableLibrariesLocal" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>

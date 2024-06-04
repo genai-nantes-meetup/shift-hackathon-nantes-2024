@@ -1,0 +1,60 @@
+jamie - AI-Powered Meeting Assistance Platform: Fact Sheet
+1. Company Name and Mission:
+
+Company Name: jamie
+Mission: To revolutionize meeting efficiency and productivity by offering the most accurate AI-powered meeting notes and automated action items, saving users valuable time and enhancing collaboration.
+2. Technology Services and Platform Integration:
+
+Core Service: jamie is an AI-powered meeting notes platform that automatically transcribes, summarizes, and extracts action items from any meeting.
+Platform Integration: Jamie seamlessly integrates with popular meeting platforms like Zoom, Microsoft Teams, and Google Meet, as well as offline meetings, providing a versatile solution for diverse users.
+3. Customer Segments and Specific Features:
+
+Sales Teams:
+Features: Actionable insights for follow-ups, automatic deal tracking, and personalized meeting summaries for effective client management.
+Customer Success Teams:
+Features: Centralized documentation of customer interactions, quick identification of key issues, and streamlined action item management for improved customer support.
+Product Teams:
+Features: Capture and track product feedback, generate meeting minutes for stakeholder alignment, and facilitate effective product roadmap development.
+4. Pain Points and Solutions:
+
+Pain Points:
+Time-consuming note-taking and information retrieval.
+Difficulty tracking action items and follow-up tasks.
+Lack of clarity on meeting outcomes and decisions.
+Solutions:
+Automatic Note Generation: jamie leverages AI to create detailed meeting summaries, transcripts, and action items.
+Action Item Tracking: Automatic identification and assignment of tasks with clear due dates for seamless follow-up.
+Semantic Search: Powerful search functionality allows users to quickly find answers and relevant meeting information based on context.
+5. Key and Secondary Features:
+
+Key Features:
+Automatic Transcription and Summary Generation: Generates human-readable summaries and transcripts.
+Action Item Extraction: Identifies tasks, assigns them to individuals, and sets due dates.
+Decision Detection: Captures key decisions made during meetings.
+Semantic Search: Allows users to search for information based on context.
+Secondary Features:
+Topic-Sorted Notes: Organizes meeting notes based on relevant topics for easy navigation.
+Custom Note Templates: Users can create personalized templates for note-taking.
+15+ Languages: Supports a diverse range of languages.
+Teach Custom Words: Users can add specific words and acronyms to enhance accuracy.
+6. Unique Value Proposition:
+
+Effortless Meeting Notes: Eliminates the need for manual note-taking, allowing users to focus on the meeting.
+Contextualized Information Retrieval: Semantic search functionality delivers the most relevant information with ease.
+Actionable Insights: Identifies key takeaways and decisions, promoting efficient follow-up and progress.
+Time Savings: Significantly reduces the time spent on note-taking, summarizing, and action item tracking.
+7. Geographical Reach and Language Support:
+
+Geographical Reach: jamie operates globally, catering to a diverse customer base.
+Language Support: Supports over 15 languages, enabling seamless communication and collaboration across borders.
+8. Innovative Features:
+
+Context Aware AI: jamie learns from user interactions and adapts to individual work contexts, becoming more intelligent over time.
+Privacy-First Approach: Data is securely stored and processed in Europe, complying with GDPR regulations.
+9. Versatility and Accessibility:
+
+jamie is a versatile solution applicable to various business functions and teams, including sales, customer success, product, marketing, and human resources.
+Its user-friendly interface and comprehensive features ensure accessibility for all users, regardless of technical expertise.
+Conclusion:
+
+jamie is a powerful AI-powered meeting assistance platform that streamlines meeting processes and enhances overall productivity. Its intuitive design, comprehensive features, and global reach make it an ideal solution for businesses of all sizes seeking to optimize their meeting experience and maximize team collaboration.

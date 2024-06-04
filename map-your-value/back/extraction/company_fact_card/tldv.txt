@@ -1,0 +1,63 @@
+tl;dv Company Fact Sheet
+Company Name: tl;dv (Too Long, Didn't View)
+
+Mission: To revolutionize meeting efficiency and productivity by leveraging AI to capture, transcribe, summarize, and analyze meeting data, empowering teams to make better decisions and achieve more.
+
+Technology Services:
+
+AI-powered meeting recording and transcription: Automatically records and transcribes meetings from popular platforms like Zoom, Google Meet, and Microsoft Teams. Supports over 30 languages, including English, Spanish, Portuguese, French, German, and more.
+AI-generated notes and summaries: Analyzes meeting conversations and automatically creates organized notes, highlighting key points, action items, and important discussions. Allows users to customize notes based on specific topics or keywords.
+Conversational intelligence: Extracts valuable insights and actionable reports from meeting data, identifying key themes, trends, and actionable insights.
+Sales coaching and playbooks: Provides personalized coaching and performance scorecards for sales managers and reps, enabling them to analyze conversations, improve objection handling, and track progress against sales playbooks.
+Integration: Seamlessly integrates with over 5,000 popular business tools via Zapier and its own API, including:
+
+CRM: Logs recordings, notes, and insights into CRM systems like Salesforce, HubSpot, and Pipedrive, eliminating manual data entry and providing a unified view of customer interactions.
+Calendar: Automatically records and transcribes meetings scheduled via popular calendar apps like Google Calendar and Outlook.
+Collaboration: Auto-shares meeting transcripts, notes, reports, and recordings into team collaboration platforms like Slack, Microsoft Teams, and Google Workspace.
+Project Management: Enables users to add tasks, document meeting notes, and insights directly into their project management tools like Asana, Trello, and Jira.
+Storage: Uploads recordings and transcripts into cloud storage platforms like Google Drive, Dropbox, and OneDrive, ensuring data accessibility and backups.
+Primary Customer Segments:
+
+Sales Teams: Empowers sales managers to optimize team performance, coach reps effectively, and uncover valuable insights from customer conversations. Features for sales reps include automated CRM updates, intelligent follow-up email drafts, and easy access to meeting evidence.
+Customer Success Teams: Helps CS managers track customer satisfaction, analyze customer feedback, and improve customer retention strategies. Features for CS reps include automated CRM updates, streamlined meeting recap, and valuable customer insights.
+Product Teams: Provides product teams with access to real-time customer insights from sales calls and user feedback meetings. Features include streamlined product insights, capturing the "voice of the customer," and uncovering trends and patterns.
+Leadership Teams: Offers insights into customer needs, enabling leaders to align teams, develop customer-centric strategies, and make better decisions for sales, renewals, and product development.
+Core Pain Points Addressed:
+
+Meeting inefficiency: Wastes time on note-taking, follow-ups, and information retrieval.
+Lack of meeting accountability: Difficult to track progress, identify action items, and ensure everyone is on the same page.
+Missed opportunities for insights: Valuable information shared in meetings is often lost or inaccessible.
+Limited visibility into team performance: Difficult to track individual and team performance during customer interactions.
+Technology Solution:
+
+tl;dv utilizes advanced AI algorithms to analyze and understand meeting conversations. The platform automatically captures meeting data, transcribes it accurately, and generates concise summaries. By seamlessly integrating with various business tools, tl;dv streamlines workflows, ensures data accessibility, and empowers teams to utilize insights for better decision-making.
+
+Key Features:
+
+High-quality recording and transcription: Ensures clear audio and video recordings, delivering high-accuracy transcripts in multiple languages.
+AI-powered note-taking: Automatically organizes notes by topic and highlights important points, key decisions, and action items.
+Actionable insights and reports: Provides valuable reports that identify themes, trends, and key insights from meetings, empowering teams to make data-driven decisions.
+Seamless integrations: Connects with various business tools, eliminating manual data entry and enabling streamlined workflows.
+Sales coaching and playbooks: Offers personalized coaching and performance scorecards for sales teams, enabling managers to track team performance and provide targeted guidance.
+Secondary Features:
+
+Secure and compliant: Provides encrypted storage and GDPR compliance, ensuring data security and privacy.
+Keyword alerts: Notifies users about specific keywords or phrases mentioned during meetings, enabling proactive action and information gathering.
+Meeting engagement tracking: Tracks who has viewed meeting recordings, providing insights into engagement and interest levels.
+Multi-meeting reports: Generates comprehensive reports across multiple meetings, enabling users to track progress, identify trends, and gain deeper insights.
+Unique Value Proposition:
+
+tl;dv stands out by providing a comprehensive and intuitive AI-powered solution that goes beyond simple meeting recording and transcription. The platform empowers users to harness the full value of their meetings, extracting valuable insights and actionable data that drive efficiency, productivity, and informed decision-making.
+
+Geographical Reach and Language Support:
+
+tl;dv offers global reach and supports a wide range of languages, catering to a diverse international customer base. This allows businesses to streamline collaboration, leverage insights from global meetings, and overcome language barriers effectively.
+
+Innovative Features:
+
+Conversational Intelligence: Goes beyond simple summaries, offering deeper insights into meeting dynamics, speaker sentiment, and key conversation moments.
+Customizable Playbooks: Enables users to create tailored playbooks for specific teams and workflows, providing tailored guidance and performance tracking.
+Multi-Meeting Reports: Leverages AI to analyze multiple meetings, generating comprehensive reports that identify trends and uncover hidden insights across various interactions.
+Versatility and Accessibility:
+
+tl;dv positions itself as a versatile and accessible solution for various business functions and teams. Its integration with popular platforms and tools ensures seamless adoption, while its intuitive interface makes it easy for users of all technical skill levels to leverage its capabilities. Whether it's for sales, customer success, product development, or leadership teams, tl;dv empowers teams to unlock the full potential of their meetings.

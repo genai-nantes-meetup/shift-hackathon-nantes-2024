@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contrôle de l'API de Transcription</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+        }
+        .container {
+            text-align: center;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        button {
+            padding: 10px 20px;
+            margin: 10px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        #transcription {
+            margin-top: 20px;
+            white-space: pre-wrap;
+            text-align: left;
+            background: #e0e0e0;
+            padding: 10px;
+            border-radius: 8px;
+            width: 80%;
+            max-width: 600px;
+            overflow-y: auto;
+            max-height: 300px;
+            word-wrap: break-word;
+        }
+    </style>
+</head>
+<body>
+    <div className="container">
+        <h1>Contrôle de l'API de Transcription</h1>
+        <button onclick="startRecording()">Démarrer l'enregistrement</button>
+        <button onclick="stopRecording()">Arrêter l'enregistrement</button>
+        <button onclick="getTranscription()">Obtenir la transcription</button>
+        <div id="transcription"></div>
+    </div>
+
+    <script>
+        const apiUrl = 'http://localhost:8000';
+
+        async function startRecording() {
+            try {
+                const response = await fetch(`${apiUrl}/start`, {
+                    method: 'POST'
+                });
+                const data = await response.json();
+                //alert(data.message);
+            } catch (error) {
+                console.error('Erreur lors du démarrage de l\'enregistrement:', error);
+            }
+        }
+
+        async function stopRecording() {
+            try {
+                const response = await fetch(`${apiUrl}/stop`, {
+                    method: 'POST'
+                });
+                const data = await response.json();
+                //alert(data.message);
+            } catch (error) {
+                console.error('Erreur lors de l\'arrêt de l\'enregistrement:', error);
+            }
+        }
+
+        async function getTranscription() {
+            try {
+                const response = await fetch(`${apiUrl}/transcription`);
+                const data = await response.json();
+                // Récupérer la transcription dans le json
+                console.log(data.transcription);
+                // Mettre la transcription dans le textarea
+                document.getElementById('transcription').innerText = data.transcription;
+                // Redimensionner la fenêtre
+                document.getElementById('transcription').style.height = 'auto';
+            } catch (error) {
+                console.error('Erreur lors de la récupération de la transcription:', error);
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,52 @@
+[tool.poetry]
+name = "map-your-value-back"
+version = "0.1.0"
+description = "mapUrValue backend"
+authors = ["Adrien <adrien.bertheleme@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+vertexai = "^1.49.0"
+beautifulsoup4 = "^4.12.3"
+requests = "^2.32.3"
+python-dotenv = "^1.0.1"
+mistralai = "^0.3.0"
+pydantic = "^2.7.2"
+fastapi = "^0.111.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+
+[tool.ruff.isort]
+case-sensitive = true
+
+[tool.ruff.lint]
+select = [
+  # bugbear rules
+  "B",
+  "I",
+  # remove unused imports
+  "F401",
+  # bare except statements
+  "E722",
+  # unused arguments
+  "ARG",
+]
+ignore = [
+  "B006",
+  "B018",
+]
+
+unfixable = [
+  "T201",
+  "T203",
+]
+ignore-init-module-imports = true

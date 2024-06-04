@@ -1,0 +1,969 @@
+{
+    "metadata": {
+      "audio_duration": 54.656,
+      "number_of_distinct_channels": 1,
+      "billing_time": 54.656,
+      "transcription_time": 26.135
+    },
+    "transcription": {
+      "languages": [
+        "fr"
+      ],
+      "full_transcript": "Vous vous trouvez actuellement devant la tour. En haut se trouve le mage qui crie et qui jubile devant son caillou rouge qui fait des flammes et des éclairs. Devant vous se dresse une porte en bois. Que faites-vous ? J'utilise ma compétence d'attaque pour défoncer la porte. Vas-y. Donc 53. La porte n'avait pas l'air bien solide et pourtant tu n'arrives pas à la franchir. Tes nombreux coups n'y font rien, la porte résiste. Je vais essayer de casser la porte avec mes compétences d'artisanat. Vas-y, tu vas la démonter, très bien, go. 55. Pourtant cette porte ne représente pas un grand obstacle, mais certains clous n'étaient peut-être mal placés et changent la conception de la porte. Et tu n'arrives pas à la démonter.",
+      "utterances": [
+        {
+          "text": "Vous vous trouvez actuellement devant la tour.",
+          "language": "fr",
+          "start": 1.372,
+          "end": 3.3981900000000005,
+          "confidence": 0.91,
+          "channel": 0,
+          "speaker": 0,
+          "words": [
+            {
+              "word": "Vous",
+              "start": 1.372,
+              "end": 1.4341700000000002,
+              "confidence": 0
+            },
+            {
+              "word": " vous",
+              "start": 1.4341700000000002,
+              "end": 1.5544200000000001,
+              "confidence": 1
+            },
+            {
+              "word": " trouvez",
+              "start": 1.5945,
+              "end": 1.89511,
+              "confidence": 0.98
+            },
+            {
+              "word": " actuellement",
+              "start": 1.95524,
+              "end": 2.4362200000000005,
+              "confidence": 0.99
+            },
+            {
+              "word": " devant",
+              "start": 2.6967499999999998,
+              "end": 2.9773300000000003,
+              "confidence": 1
+            },
+            {
+              "word": " la",
+              "start": 2.9773300000000003,
+              "end": 3.09757,
+              "confidence": 1
+            },
+            {
+              "word": " tour.",
+              "start": 3.1376600000000003,
+              "end": 3.3981900000000005,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "En haut se trouve le mage qui crie et qui jubile devant son caillou rouge qui fait des flammes et des éclairs.",
+          "language": "fr",
+          "start": 4.19983,
+          "end": 10.13196,
+          "confidence": 0.91,
+          "channel": 0,
+          "speaker": 0,
+          "words": [
+            {
+              "word": " En",
+              "start": 4.19983,
+              "end": 4.32007,
+              "confidence": 0.97
+            },
+            {
+              "word": " haut",
+              "start": 4.3601600000000005,
+              "end": 4.54052,
+              "confidence": 0.64
+            },
+            {
+              "word": " se",
+              "start": 4.58061,
+              "end": 4.70085,
+              "confidence": 0.98
+            },
+            {
+              "word": " trouve",
+              "start": 4.72089,
+              "end": 4.98143,
+              "confidence": 0.95
+            },
+            {
+              "word": " le",
+              "start": 5.02151,
+              "end": 5.14175,
+              "confidence": 0.83
+            },
+            {
+              "word": " mage",
+              "start": 5.18184,
+              "end": 5.50249,
+              "confidence": 0.98
+            },
+            {
+              "word": " qui",
+              "start": 5.64278,
+              "end": 5.76302,
+              "confidence": 0.9
+            },
+            {
+              "word": " crie",
+              "start": 5.86323,
+              "end": 6.1638399999999995,
+              "confidence": 0.72
+            },
+            {
+              "word": " et",
+              "start": 6.54462,
+              "end": 6.66487,
+              "confidence": 0.99
+            },
+            {
+              "word": " qui",
+              "start": 6.66487,
+              "end": 6.7851099999999995,
+              "confidence": 0.99
+            },
+            {
+              "word": " jubile",
+              "start": 6.86528,
+              "end": 7.28614,
+              "confidence": 0.96
+            },
+            {
+              "word": " devant",
+              "start": 7.40639,
+              "end": 7.66692,
+              "confidence": 0.98
+            },
+            {
+              "word": " son",
+              "start": 7.7470799999999995,
+              "end": 7.86733,
+              "confidence": 1
+            },
+            {
+              "word": " caillou",
+              "start": 7.92745,
+              "end": 8.208020000000001,
+              "confidence": 0.76
+            },
+            {
+              "word": " rouge",
+              "start": 8.32827,
+              "end": 8.62889,
+              "confidence": 0.98
+            },
+            {
+              "word": " qui",
+              "start": 8.64893,
+              "end": 8.769169999999999,
+              "confidence": 1
+            },
+            {
+              "word": " fait",
+              "start": 8.80925,
+              "end": 8.96958,
+              "confidence": 0.99
+            },
+            {
+              "word": " des",
+              "start": 8.98962,
+              "end": 9.109869999999999,
+              "confidence": 1
+            },
+            {
+              "word": " flammes",
+              "start": 9.14995,
+              "end": 9.47061,
+              "confidence": 0.99
+            },
+            {
+              "word": " et",
+              "start": 9.49065,
+              "end": 9.61089,
+              "confidence": 1
+            },
+            {
+              "word": " des",
+              "start": 9.63093,
+              "end": 9.75118,
+              "confidence": 1
+            },
+            {
+              "word": " éclairs.",
+              "start": 9.8113,
+              "end": 10.13196,
+              "confidence": 0.95
+            }
+          ]
+        },
+        {
+          "text": "Devant vous se dresse une porte en bois.",
+          "language": "fr",
+          "start": 11.07211,
+          "end": 12.48002,
+          "confidence": 0.91,
+          "channel": 0,
+          "speaker": 0,
+          "words": [
+            {
+              "word": " Devant",
+              "start": 11.07211,
+              "end": 11.27324,
+              "confidence": 0.96
+            },
+            {
+              "word": " vous",
+              "start": 11.29336,
+              "end": 11.41403,
+              "confidence": 0.98
+            },
+            {
+              "word": " se",
+              "start": 11.41403,
+              "end": 11.5146,
+              "confidence": 0.67
+            },
+            {
+              "word": " dresse",
+              "start": 11.53471,
+              "end": 11.73584,
+              "confidence": 0.94
+            },
+            {
+              "word": " une",
+              "start": 11.75595,
+              "end": 11.876629999999999,
+              "confidence": 1
+            },
+            {
+              "word": " porte",
+              "start": 11.896749999999999,
+              "end": 12.1381,
+              "confidence": 1
+            },
+            {
+              "word": " en",
+              "start": 12.1381,
+              "end": 12.25878,
+              "confidence": 0.93
+            },
+            {
+              "word": " bois.",
+              "start": 12.27889,
+              "end": 12.48002,
+              "confidence": 0.82
+            }
+          ]
+        },
+        {
+          "text": "Que faites-vous ?",
+          "language": "fr",
+          "start": 12.66104,
+          "end": 13.14375,
+          "confidence": 0.91,
+          "channel": 0,
+          "speaker": 0,
+          "words": [
+            {
+              "word": " Que",
+              "start": 12.66104,
+              "end": 12.78172,
+              "confidence": 1
+            },
+            {
+              "word": " faites-vous ?",
+              "start": 12.82194,
+              "end": 13.14375,
+              "confidence": 0.84
+            }
+          ]
+        },
+        {
+          "text": "J'utilise ma compétence d'attaque pour défoncer la porte.",
+          "language": "fr",
+          "start": 14.69247,
+          "end": 17.991880000000002,
+          "confidence": 0.91,
+          "channel": 0,
+          "speaker": 1,
+          "words": [
+            {
+              "word": " J'utilise",
+              "start": 14.69247,
+              "end": 15.17531,
+              "confidence": 0.9
+            },
+            {
+              "word": " ma",
+              "start": 15.17531,
+              "end": 15.27591,
+              "confidence": 0.94
+            },
+            {
+              "word": " compétence",
+              "start": 15.29602,
+              "end": 15.95993,
+              "confidence": 0.98
+            },
+            {
+              "word": " d'attaque",
+              "start": 16.5836,
+              "end": 16.96585,
+              "confidence": 0.88
+            },
+            {
+              "word": " pour",
+              "start": 17.00608,
+              "end": 17.12679,
+              "confidence": 0.99
+            },
+            {
+              "word": " défoncer",
+              "start": 17.22738,
+              "end": 17.62975,
+              "confidence": 0.85
+            },
+            {
+              "word": " la",
+              "start": 17.62975,
+              "end": 17.75046,
+              "confidence": 0.98
+            },
+            {
+              "word": " porte.",
+              "start": 17.77058,
+              "end": 17.991880000000002,
+              "confidence": 0.94
+            }
+          ]
+        },
+        {
+          "text": "Vas-y.",
+          "language": "fr",
+          "start": 18.29486,
+          "end": 18.50914,
+          "confidence": 0.91,
+          "channel": 0,
+          "speaker": 0,
+          "words": [
+            {
+              "word": " Vas-y.",
+              "start": 18.29486,
+              "end": 18.50914,
+              "confidence": 0.07
+            }
+          ]
+        },
+        {
+          "text": "Donc 53.",
+          "language": "fr",
+          "start": 22.63908,
+          "end": 23.52158,
+          "confidence": 0.87,
+          "channel": 0,
+          "speaker": 0,
+          "words": [
+            {
+              "word": " Donc",
+              "start": 22.63908,
+              "end": 22.79953,
+              "confidence": 0.09
+            },
+            {
+              "word": " 53.",
+              "start": 22.87976,
+              "end": 23.52158,
+              "confidence": 0.61
+            }
+          ]
+        },
+        {
+          "text": "La porte n'avait pas l'air bien solide et pourtant tu n'arrives pas à la franchir.",
+          "language": "fr",
+          "start": 24.46426,
+          "end": 28.55589,
+          "confidence": 0.87,
+          "channel": 0,
+          "speaker": 0,
+          "words": [
+            {
+              "word": " La",
+              "start": 24.46426,
+              "end": 24.584600000000002,
+              "confidence": 1
+            },
+            {
+              "word": " porte",
+              "start": 24.604660000000003,
+              "end": 24.825290000000003,
+              "confidence": 0.99
+            },
+            {
+              "word": " n'avait",
+              "start": 24.84534,
+              "end": 25.02586,
+              "confidence": 0.5
+            },
+            {
+              "word": " pas",
+              "start": 25.04591,
+              "end": 25.1462,
+              "confidence": 0.99
+            },
+            {
+              "word": " l'air",
+              "start": 25.1462,
+              "end": 25.26654,
+              "confidence": 0.54
+            },
+            {
+              "word": " bien",
+              "start": 25.326710000000002,
+              "end": 25.48717,
+              "confidence": 1
+            },
+            {
+              "word": " solide",
+              "start": 25.547340000000002,
+              "end": 25.928420000000003,
+              "confidence": 1
+            },
+            {
+              "word": " et",
+              "start": 26.369680000000002,
+              "end": 26.49002,
+              "confidence": 1
+            },
+            {
+              "word": " pourtant",
+              "start": 26.51007,
+              "end": 26.91121,
+              "confidence": 1
+            },
+            {
+              "word": " tu",
+              "start": 27.252180000000003,
+              "end": 27.37252,
+              "confidence": 1
+            },
+            {
+              "word": " n'arrives",
+              "start": 27.41264,
+              "end": 27.71349,
+              "confidence": 0.93
+            },
+            {
+              "word": " pas",
+              "start": 27.73355,
+              "end": 27.87395,
+              "confidence": 1
+            },
+            {
+              "word": " à",
+              "start": 27.89401,
+              "end": 28.01435,
+              "confidence": 1
+            },
+            {
+              "word": " la",
+              "start": 27.99429,
+              "end": 28.114630000000002,
+              "confidence": 0.99
+            },
+            {
+              "word": " franchir.",
+              "start": 28.15475,
+              "end": 28.55589,
+              "confidence": 0.82
+            }
+          ]
+        },
+        {
+          "text": "Tes nombreux coups n'y font rien,",
+          "language": "fr",
+          "start": 29.23776,
+          "end": 31.47082,
+          "confidence": 0.87,
+          "channel": 0,
+          "speaker": 0,
+          "words": [
+            {
+              "word": " Tes",
+              "start": 29.23776,
+              "end": 29.35847,
+              "confidence": 0.69
+            },
+            {
+              "word": " nombreux",
+              "start": 29.378590000000003,
+              "end": 29.700470000000003,
+              "confidence": 0.95
+            },
+            {
+              "word": " coups",
+              "start": 29.74071,
+              "end": 29.94188,
+              "confidence": 0.93
+            },
+            {
+              "word": " n'y",
+              "start": 30.90753,
+              "end": 31.02824,
+              "confidence": 0.64
+            },
+            {
+              "word": " font",
+              "start": 31.08859,
+              "end": 31.209290000000003,
+              "confidence": 0.94
+            },
+            {
+              "word": " rien,",
+              "start": 31.26965,
+              "end": 31.47082,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "la porte résiste.",
+          "language": "fr",
+          "start": 31.61165,
+          "end": 32.33588,
+          "confidence": 0.87,
+          "channel": 0,
+          "speaker": 0,
+          "words": [
+            {
+              "word": " la",
+              "start": 31.61165,
+              "end": 31.73235,
+              "confidence": 0.99
+            },
+            {
+              "word": " porte",
+              "start": 31.752470000000002,
+              "end": 31.953650000000003,
+              "confidence": 0.99
+            },
+            {
+              "word": " résiste.",
+              "start": 31.97376,
+              "end": 32.33588,
+              "confidence": 0.83
+            }
+          ]
+        },
+        {
+          "text": "Je vais essayer de casser la porte avec mes compétences d'artisanat.",
+          "language": "fr",
+          "start": 33.136,
+          "end": 36.75535,
+          "confidence": 0.87,
+          "channel": 0,
+          "speaker": 2,
+          "words": [
+            {
+              "word": " Je",
+              "start": 33.136,
+              "end": 33.25665,
+              "confidence": 1
+            },
+            {
+              "word": " vais",
+              "start": 33.29686,
+              "end": 33.41751,
+              "confidence": 0.85
+            },
+            {
+              "word": " essayer",
+              "start": 33.45772,
+              "end": 33.83976,
+              "confidence": 0.95
+            },
+            {
+              "word": " de",
+              "start": 33.85987,
+              "end": 33.98052,
+              "confidence": 1
+            },
+            {
+              "word": " casser",
+              "start": 34.84514,
+              "end": 35.12665,
+              "confidence": 0.87
+            },
+            {
+              "word": " la",
+              "start": 35.12665,
+              "end": 35.24729,
+              "confidence": 1
+            },
+            {
+              "word": " porte",
+              "start": 35.2674,
+              "end": 35.528800000000004,
+              "confidence": 1
+            },
+            {
+              "word": " avec",
+              "start": 35.58912,
+              "end": 35.729870000000005,
+              "confidence": 1
+            },
+            {
+              "word": " mes",
+              "start": 35.77009,
+              "end": 35.890730000000005,
+              "confidence": 0.99
+            },
+            {
+              "word": " compétences",
+              "start": 35.890730000000005,
+              "end": 36.27277,
+              "confidence": 0.9
+            },
+            {
+              "word": " d'artisanat.",
+              "start": 36.27277,
+              "end": 36.75535,
+              "confidence": 0.41
+            }
+          ]
+        },
+        {
+          "text": "Vas-y,",
+          "language": "fr",
+          "start": 37.33664,
+          "end": 37.53877,
+          "confidence": 0.87,
+          "channel": 0,
+          "speaker": 0,
+          "words": [
+            {
+              "word": " Vas-y,",
+              "start": 37.33664,
+              "end": 37.53877,
+              "confidence": 0.23
+            }
+          ]
+        },
+        {
+          "text": "tu vas la démonter,",
+          "language": "fr",
+          "start": 37.862170000000006,
+          "end": 38.52919,
+          "confidence": 0.87,
+          "channel": 0,
+          "speaker": 0,
+          "words": [
+            {
+              "word": " tu",
+              "start": 37.862170000000006,
+              "end": 37.983450000000005,
+              "confidence": 0.89
+            },
+            {
+              "word": " vas",
+              "start": 37.983450000000005,
+              "end": 38.0643,
+              "confidence": 0.3
+            },
+            {
+              "word": " la",
+              "start": 38.04409,
+              "end": 38.14515,
+              "confidence": 0.7
+            },
+            {
+              "word": " démonter,",
+              "start": 38.16536000000001,
+              "end": 38.52919,
+              "confidence": 0.78
+            }
+          ]
+        },
+        {
+          "text": "très bien,",
+          "language": "fr",
+          "start": 38.56962,
+          "end": 38.83238,
+          "confidence": 0.87,
+          "channel": 0,
+          "speaker": 0,
+          "words": [
+            {
+              "word": " très",
+              "start": 38.56962,
+              "end": 38.69089,
+              "confidence": 0.48
+            },
+            {
+              "word": " bien,",
+              "start": 38.711110000000005,
+              "end": 38.83238,
+              "confidence": 0.63
+            }
+          ]
+        },
+        {
+          "text": "go.",
+          "language": "fr",
+          "start": 39.03451,
+          "end": 39.15579,
+          "confidence": 0.87,
+          "channel": 0,
+          "speaker": 0,
+          "words": [
+            {
+              "word": " go.",
+              "start": 39.03451,
+              "end": 39.15579,
+              "confidence": 0.24
+            }
+          ]
+        },
+        {
+          "text": "55.",
+          "language": "fr",
+          "start": 41.38205,
+          "end": 41.94301,
+          "confidence": 0.81,
+          "channel": 0,
+          "speaker": 0,
+          "words": [
+            {
+              "word": " 55.",
+              "start": 41.38205,
+              "end": 41.94301,
+              "confidence": 0.06
+            }
+          ]
+        },
+        {
+          "text": "Pourtant cette porte ne représente pas un grand obstacle,",
+          "language": "fr",
+          "start": 42.80449,
+          "end": 45.06836,
+          "confidence": 0.81,
+          "channel": 0,
+          "speaker": 0,
+          "words": [
+            {
+              "word": " Pourtant",
+              "start": 42.80449,
+              "end": 43.105,
+              "confidence": 0.98
+            },
+            {
+              "word": " cette",
+              "start": 43.14507,
+              "end": 43.32538,
+              "confidence": 0.97
+            },
+            {
+              "word": " porte",
+              "start": 43.34541,
+              "end": 43.56579,
+              "confidence": 0.96
+            },
+            {
+              "word": " ne",
+              "start": 43.58582,
+              "end": 43.70603,
+              "confidence": 0.98
+            },
+            {
+              "word": " représente",
+              "start": 43.78616,
+              "end": 44.14678,
+              "confidence": 0.95
+            },
+            {
+              "word": " pas",
+              "start": 44.16682,
+              "end": 44.28702,
+              "confidence": 0.71
+            },
+            {
+              "word": " un",
+              "start": 44.28702,
+              "end": 44.38719,
+              "confidence": 0.99
+            },
+            {
+              "word": " grand",
+              "start": 44.38719,
+              "end": 44.54747,
+              "confidence": 0.98
+            },
+            {
+              "word": " obstacle,",
+              "start": 44.60757,
+              "end": 45.06836,
+              "confidence": 0.95
+            }
+          ]
+        },
+        {
+          "text": "mais certains clous n'étaient peut-être mal placés et changent la conception de la porte.",
+          "language": "fr",
+          "start": 45.3889,
+          "end": 51.859970000000004,
+          "confidence": 0.81,
+          "channel": 0,
+          "speaker": 0,
+          "words": [
+            {
+              "word": " mais",
+              "start": 45.3889,
+              "end": 45.52914,
+              "confidence": 0.87
+            },
+            {
+              "word": " certains",
+              "start": 45.72949,
+              "end": 46.0901,
+              "confidence": 0.96
+            },
+            {
+              "word": " clous",
+              "start": 46.15021,
+              "end": 46.41065,
+              "confidence": 0.82
+            },
+            {
+              "word": " n'étaient",
+              "start": 47.17195,
+              "end": 47.4925,
+              "confidence": 0.84
+            },
+            {
+              "word": " peut-être",
+              "start": 47.51253,
+              "end": 47.95329,
+              "confidence": 0.91
+            },
+            {
+              "word": " mal",
+              "start": 48.17366,
+              "end": 48.29387,
+              "confidence": 1
+            },
+            {
+              "word": " placés",
+              "start": 48.33394,
+              "end": 48.73462,
+              "confidence": 0.97
+            },
+            {
+              "word": " et",
+              "start": 50.15705,
+              "end": 50.297290000000004,
+              "confidence": 0.5
+            },
+            {
+              "word": " changent",
+              "start": 50.65791,
+              "end": 50.93839,
+              "confidence": 0.83
+            },
+            {
+              "word": " la",
+              "start": 50.93839,
+              "end": 50.998490000000004,
+              "confidence": 0.82
+            },
+            {
+              "word": " conception",
+              "start": 51.01853,
+              "end": 51.41921,
+              "confidence": 0.99
+            },
+            {
+              "word": " de",
+              "start": 51.43925,
+              "end": 51.55945,
+              "confidence": 0.97
+            },
+            {
+              "word": " la",
+              "start": 51.53942,
+              "end": 51.659620000000004,
+              "confidence": 0.83
+            },
+            {
+              "word": " porte.",
+              "start": 51.67966,
+              "end": 51.859970000000004,
+              "confidence": 0.96
+            }
+          ]
+        },
+        {
+          "text": "Et tu n'arrives pas à la démonter.",
+          "language": "fr",
+          "start": 52.02171,
+          "end": 53.519760000000005,
+          "confidence": 0.81,
+          "channel": 0,
+          "speaker": 0,
+          "words": [
+            {
+              "word": " Et",
+              "start": 52.02171,
+              "end": 52.14317,
+              "confidence": 0.49
+            },
+            {
+              "word": " tu",
+              "start": 52.62902,
+              "end": 52.75049,
+              "confidence": 0.92
+            },
+            {
+              "word": " n'arrives",
+              "start": 52.75049,
+              "end": 52.99341,
+              "confidence": 0.9
+            },
+            {
+              "word": " pas",
+              "start": 52.99341,
+              "end": 53.11488,
+              "confidence": 0.88
+            },
+            {
+              "word": " à",
+              "start": 53.11488,
+              "end": 53.13512,
+              "confidence": 0.05
+            },
+            {
+              "word": " la",
+              "start": 53.13512,
+              "end": 53.19585,
+              "confidence": 0.5
+            },
+            {
+              "word": " démonter.",
+              "start": 53.2161,
+              "end": 53.519760000000005,
+              "confidence": 0.8
+            }
+          ]
+        }
+      ]
+    }
+  }
