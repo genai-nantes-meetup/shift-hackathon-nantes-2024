@@ -1,3 +1,6 @@
 [submodule "deeplore"]
 	path = deeplore
 	url = git@github.com:deeplore-ai/deeplore.git
+[submodule "myla"]
+	path = myla
+	url = git@github.com:MatthieuVeillon/myla.git
